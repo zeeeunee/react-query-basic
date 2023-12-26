@@ -5,8 +5,6 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
 
-//reportWebVitals();
-
 /*
 redux 기반으로 비동기 데이터를 전역 state저장시의 문제점
 1. redux의 태생자체가 비동기 데이터 관리를 위한 라이브러리가 아니었기 때문에 코드시스템이 비효율적
