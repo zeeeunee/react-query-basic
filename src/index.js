@@ -5,7 +5,7 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
 
-reportWebVitals();
+//reportWebVitals();
 
 /*
 redux 기반으로 비동기 데이터를 전역 state저장시의 문제점
